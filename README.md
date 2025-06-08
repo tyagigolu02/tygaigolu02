@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML , CSS , JavaScript , React , Java ,Python and SQL.**
 
-- 📫 How to reach me **tyagigolu02@gmail.com**
+- 📫 How to reach me **deepanshu.tyagi.cse.2022@gmail.com**
 
 - ⚡ Fun fact **I think I am not funny.**
 
